@@ -35,7 +35,12 @@ let down = await fg.yta(url)
 let downloadUrl = down.dl_url
 
 //send audio massege
-await conn.sendMassege(from,{audio: {url:downloadurl},mimtype:audio/mpeg"},{quoted:mek})
+await conn.sendMassege(from,{audio: {url:downloadUrl},mimtype:"audio/mpeg"},{quoted:mek})
+
+
+
+
+
 }catch(e){
   console.log(e)
   reply('${e}')
