@@ -26,4 +26,5 @@ ALIVE_MSG: process.env.ALIVE_MSG || "╭─────────────�
 
 ╰───────────────────────▢",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+MODE: process.env.MODE ||"public",
 };
