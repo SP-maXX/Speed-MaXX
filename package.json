@@ -1,12 +1,12 @@
 {
-  "name": "Speed MAX",
+  "name": "Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ",
   "version": "1.0.0",
   "description": "ɪ ᴀᴍ ʜᴇʟᴘꜰᴜʟ ᴀɴᴅ ᴜꜱᴇʀ ʙᴏᴛ",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Speed MAX",
-    "stop": "pm2 stop Speed MAX",
-    "restart": "pm2 restart Speed MAX"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ",
+    "stop": "pm2 stop Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ",
+    "restart": "pm2 restart Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
