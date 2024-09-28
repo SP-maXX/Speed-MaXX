@@ -87,7 +87,7 @@ let menu = {
 ╰───────────●●►
 
 > ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ ©Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ₂ₒ₂₄
-> Powerd By Thenula_Panapiti...🔰 
+> ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ S?????s?.S
 `
 
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
