@@ -1,12 +1,12 @@
 {
-  "name": "Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ",
+  "name": "Speed MaXX-MD",
   "version": "1.0.0",
-  "description": "ɪ ᴀᴍ ʜᴇʟᴘꜰᴜʟ ᴀɴᴅ ᴜꜱᴇʀ ʙᴏᴛ",
+  "description": "I AM HELPFUL AND USER BOT",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ",
-    "stop": "pm2 stop Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ",
-    "restart": "pm2 restart Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Speed MaXX-MD",
+    "stop": "pm2 stop Speed MaXX-MD",
+    "restart": "pm2 restart Speed MaXX-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
