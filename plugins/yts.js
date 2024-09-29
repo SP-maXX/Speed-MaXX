@@ -22,7 +22,7 @@ async (conn, mek, m, { from, args, reply }) => {
             return reply('No videos found for the given query.');
         }
 
-        let response = '*THENU- MD YouTube Search Results:*\n\n';
+        let response = '*Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ YouTube Search Results:*\n\n';
         results.videos.slice(0, 20).forEach((video, index) => {
             response += `${index + 1}. *${video.title}*\n`;
             response += `   Channel: ${video.author.name}\n`;
