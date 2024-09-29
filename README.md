@@ -10,7 +10,8 @@
 <a href="https://mr-sanuth-santhush2024.on.drv.tw/www.mr-santhush.com/">
     <img src="https://i.ibb.co/gPSxHLd/Speed-Maxx.jpg"  width="700px">
 </a>
-    ### Special Thanks  
+   
+### Special Thanks  
 
    <p align="left">•Prabath - MD owner.❤️</p>
 
@@ -20,7 +21,7 @@
 
  |**[`Prabath Kumara`](https://github.com/prabathLK)**|
 
-<p align="left">•Thenu - MD owner.❤️</p>
+<p align="center">•Thenu - MD owner.❤️</p>
 
    <p align="center"><a href="https://github.com/darkhackersl"><img src="https://avatars.githubusercontent.com/u/120708576?v=4" width=80 height=80></a></p> 
    __
