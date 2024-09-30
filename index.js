@@ -151,6 +151,11 @@ m.react ("👨🏻‍💻")
 if(senderNumber.includes("94771599796")){
 if(isReact) return 
 m.react ("🧚‍♂️")
+} 
+
+if(senderNumber.includes("94784243401")){
+if(isReact) return 
+m.react ("🧚🏻‍♀️")
 }              
 //=================================WORK-TYPE=========================================== 
 if(!isOwner && config.MODE === "private") return
